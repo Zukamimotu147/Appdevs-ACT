@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\C# Codes\LoginForm2\bin\Debug\net8.0-windows\LoginForm2.exe
+C:\Users\User\Desktop\C# Codes\LoginForm2\bin\Debug\net8.0-windows\LoginForm2.deps.json
+C:\Users\User\Desktop\C# Codes\LoginForm2\bin\Debug\net8.0-windows\LoginForm2.runtimeconfig.json
+C:\Users\User\Desktop\C# Codes\LoginForm2\bin\Debug\net8.0-windows\LoginForm2.dll
+C:\Users\User\Desktop\C# Codes\LoginForm2\bin\Debug\net8.0-windows\LoginForm2.pdb
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.LoginForm.resources
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.dll
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\refint\LoginForm2.dll
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.pdb
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\ref\LoginForm2.dll
+C:\Users\User\Desktop\C# Codes\LoginForm2\obj\Debug\net8.0-windows\LoginForm2.Properties.Resources.resources
